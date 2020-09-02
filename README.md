@@ -8,4 +8,4 @@ This is code of BINP16
 *TEST*
 
 
-[link to Google!]
+[link to BAIDU!](www.baidu.com)
